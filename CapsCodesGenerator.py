@@ -1,3 +1,5 @@
+import numpy as np 
+import pandas as pd # for making useful tables later, if we need them for the paper to provide exs 
 from itertools import combinations
 
 ########################################
@@ -66,6 +68,7 @@ def findOverlap(vectorList):
 
 X9 = AffineVector([1,2,3,4,5,6,7,8,9])
 
+# compiiles the lists of 
 def listDSet():
     dSet = []
     for combo in combinations(range(1,10), 5):
@@ -377,3 +380,4 @@ def codesTable(n):
 
 codesTable(18)
 # showCodes(11,14)
+#test for github commit
