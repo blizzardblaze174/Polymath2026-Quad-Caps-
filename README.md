@@ -1,3 +1,3 @@
 # Polymath2026-Quad-Caps-
 
-Code written for the Quad Caps project of the Polymath 2026 research program. 
+The aim of this is for us to be able to classify caps, cards that are not part of quads, and figure out how they can be used to make further discoveries about dimensions 8 and up. 
